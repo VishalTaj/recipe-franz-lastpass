@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Vishal Taj <getvishalonline@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/VishalTaj/recipe-franz-lastpass",
   "config": {
     "serviceURL": "https://lastpass.com/?ac=1&lpnorefresh=1"
   }
